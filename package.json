@@ -1,0 +1,26 @@
+{
+  "name": "ml",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vikal Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.1",
+    "connect-mongodb-session": "^3.1.1",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "express-session": "^1.17.3",
+    "moment": "^2.29.4",
+    "mongoose": "^6.7.2",
+    "nodemon": "^2.0.20",
+    "path": "^0.12.7",
+    "request": "^2.81.0",
+    "request-promise": "^4.2.6",
+    "sessions": "^0.0.2-7"
+  }
+}
